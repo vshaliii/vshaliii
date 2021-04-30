@@ -12,12 +12,12 @@ Cyber Security Analyst
 <a href="https://www.linkedin.com/in/vaishali-kumari-606351159/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/vaishali9.98/">
+<a href="https://www.instagram.com/vshaliii/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/vaishali.chauhan.946954">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />
 </a>
-<a href="https://medium.com/@vaishali98">
+<a href="https://medium.com/@vshaliii">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />
 </a>
