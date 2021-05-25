@@ -7,7 +7,7 @@ Cyber Security Analyst
 -  **Skills :** Kali Linux || Vulnerability Assessment and Penetration Testing || Ethical Hacking || Web Application Penetration Testing || OWASP || Nessus || Python || C/C++ || JavaScript || Cloud computing (Microsoft Azure)
 -  **Hobbies :** Painting || Art || Dance
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vaishali1998&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=vshaliii&show_icons=true)
 
 <a href="https://www.linkedin.com/in/vaishali-kumari-606351159/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
