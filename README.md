@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Vaishali ❤ 
-Cyber Security Analyst
+Associate Infosec Consultant
 
 ### About
 
