@@ -9,7 +9,7 @@ Associate Infosec Consultant
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vshaliii&show_icons=true)
 
-<a href="https://www.linkedin.com/in/vaishali-kumari-606351159/">
+<a href="https://www.linkedin.com/in/vshaliii/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/vshaliii/">
